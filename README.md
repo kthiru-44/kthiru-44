@@ -1,6 +1,6 @@
 Hi, I’m Thiru.
 
-I’m an undergraduate student starting my B.Tech in Computer Science or ECE, with a deep interest in quantum computing and software systems.
+I’m an undergraduate student starting my B.Tech in Computer Science , with a deep interest in quantum computing and software systems.
 
 Currently learning:
 - Python
