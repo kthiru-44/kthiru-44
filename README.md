@@ -30,7 +30,6 @@ Building on this, I document my progress through open-source projects that combi
 |----------|--------------|---------------|
 | [Quantum-Road](https://github.com/kthiru-44/Quantum-Road) | Structured documentation of quantum learning and simulations based on IBM coursework. | Python, Qiskit |
 | CHSH Game Analysis *(in progress)* | Comparative study of classical vs. quantum strategies in the CHSH game, including probability visualizations. | Python, Qiskit, Matplotlib |
-| Quantum Circuits Toolkit *(in progress)* | Minimal Python library for visualizing and analyzing basic quantum circuits. | Python, Qiskit |
 
 ---
 
