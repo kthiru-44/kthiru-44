@@ -9,7 +9,7 @@ My current work involves exploring the interface between quantum theory and comp
 
 ## About Me
 
-I began my journey with IBM’s *Basics of Quantum Information* and *Fundamentals of Quantum Algorithms* courses, which provided a foundation in measurement theory, circuit design, and algorithmic reasoning.  
+I began my journey with IBM’s *Basics of Quantum Information* and *Fundamentals of Quantum Algorithms* courses, which provided a foundation in measurement theory, circuit design, and algorithmic rea[...]
 Building on this, I document my progress through open-source projects that combine physics intuition with computational execution.
 
 ---
@@ -30,6 +30,7 @@ Building on this, I document my progress through open-source projects that combi
 |----------|--------------|---------------|
 | [Quantum-Road](https://github.com/kthiru-44/Quantum-Road) | Structured documentation of quantum learning and simulations based on IBM coursework. | Python, Qiskit |
 | CHSH Game Analysis *(in progress)* | Comparative study of classical vs. quantum strategies in the CHSH game, including probability visualizations. | Python, Qiskit, Matplotlib |
+| [Python-Mini-Projects](https://github.com/kthiru-44/python-mini-projects) | Collection of small Python projects demonstrating core programming concepts and problem-solving. | Python |
 
 ---
 
@@ -51,10 +52,10 @@ Work as a **Quantum Software Engineer** or **Research Associate** in academic or
 
 ## Technical Skills
 
-**Languages:** Python, C (beginner), Bash  
+**Languages:** Python, C (beginner), Git bash  
 **Frameworks:** Qiskit, NumPy, Matplotlib, Jupyter  
 **Tools:** Git, Linux, LaTeX  
-**Areas of Interest:** Quantum algorithms, compilers, hybrid systems, quantum error correction  
+**Areas of Interest:** Quantum algorithms, quantum error correction  
 
 ---
 
@@ -72,6 +73,7 @@ Work as a **Quantum Software Engineer** or **Research Associate** in academic or
  
 **Email:** thirukumaran3057@gmail.com  
 **GitHub:** [github.com/kthiru-44](https://github.com/kthiru-44)
+**Linkedin:** www.linkedin.com/in/kthiru44
 
 ---
 
