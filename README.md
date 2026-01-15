@@ -34,22 +34,6 @@ Building on this, I document my progress through open-source projects that combi
 
 ---
 
-## Roadmap
-
-**2025–26 (Year 2):**  
-Deepen theoretical background and strengthen project portfolio. Apply to **FUSEP (USTC, Hefei)**.  
-
-**2026–27 (Year 3):**  
-Pursue **CERN QTI** or **KEK Summer Program** focusing on hybrid systems or algorithmic research.  
-
-**2027–28 (Postgraduate):**  
-Enroll in **NUS MSc in Physics (Quantum Technology Track)** to specialize in quantum software and system design.  
-
-**Beyond:**  
-Work as a **Quantum Software Engineer** or **Research Associate** in academic or industry labs in Asia or Europe.
-
----
-
 ## Technical Skills
 
 **Languages:** Python, C (beginner), Git bash  
