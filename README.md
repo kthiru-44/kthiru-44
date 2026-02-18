@@ -56,7 +56,9 @@ Building on this, I document my progress through open-source projects that combi
 ## Contact
  
 **Email:** thirukumaran3057@gmail.com  
-**GitHub:** [github.com/kthiru-44](https://github.com/kthiru-44)
+
+**GitHub:** https://github.com/kthiru-44
+
 **Linkedin:** www.linkedin.com/in/kthiru44
 
 ---
