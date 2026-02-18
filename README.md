@@ -14,6 +14,15 @@ Building on this, I document my progress through open-source projects that combi
 
 ---
 
+## Achievements
+
+- [INEVITABILITY](https://github.com/shiri-09/INEVITABILITY.git): Architected an automated binary analysis framework leveraging SMT solvers and Z3 to programmatically identify logic vulnerabilities and secure and protect complex code structures.
+- [DroneGuard-AI](https://github.com/kthiru-44/DroneGuard-AI.git) : Developed an drone cybersecurity monitoring tool featuring a real-time telemetry dashboard to detect and mitigate unauthorized signal interference and GPS spoofing.
+- Completed IBM Quantum courses (*Basics of Quantum Information* and *Fundamentals of Quantum Algorithms*).  
+- Building independent theoretical and simulation-based projects in quantum algorithms.  
+
+---
+ 
 ## Current Focus
 
 - Quantum algorithm design and analysis  
@@ -24,15 +33,6 @@ Building on this, I document my progress through open-source projects that combi
 
 ---
 
-## Selected Projects
-
-| Project | Description | Technologies |
-|----------|--------------|---------------|
-| [Quantum-Road](https://github.com/kthiru-44/Quantum-Road) | Structured documentation of quantum learning and simulations based on IBM coursework. | Python, Qiskit |
-| CHSH Game Analysis *(in progress)* | Comparative study of classical vs. quantum strategies in the CHSH game, including probability visualizations. | Python, Qiskit, Matplotlib |
-| [Python-Mini-Projects](https://github.com/kthiru-44/python-mini-projects) | Collection of small Python projects demonstrating core programming concepts and problem-solving. | Python |
-
----
 
 ## Technical Skills
 
@@ -41,14 +41,6 @@ Building on this, I document my progress through open-source projects that combi
 **Tools:** Git, Linux, LaTeX  
 **Areas of Interest:** Quantum algorithms, quantum error correction  
 
----
-
-## Achievements
-
-- Completed IBM Quantum courses (*Basics of Quantum Information* and *Fundamentals of Quantum Algorithms*).  
-- Maintained detailed public learning documentation and analysis through the *Quantum-Road* repository.  
-- Completed 50 days of Advanced python Bootcamp
-- Building independent theoretical and simulation-based projects in quantum algorithms.  
 
 ---
 
