@@ -2,18 +2,12 @@
 
 ## Computer Science Undergraduate | Quantum Computing & Software Systems
 
-I’m a Computer Science student driven by a deep interest in quantum computing, backend engineering, and machine learning. I focus on mastering core fundamentals — algorithms, data structures, distributed systems, and quantum information theory — to build a strong technical base for advanced research and scalable systems.
-
-On the engineering side, I enjoy designing robust backend architectures and developing ML models that translate theory into real-world impact. I’m particularly interested in how classical high-performance infrastructure can integrate with emerging quantum technologies.
-
-Long term, I aim to work at the intersection of intelligent systems and quantum computation — contributing to research, building future-ready platforms, and shaping the next era of computing.
-
----
 
 ## About Me
 
-I began my journey with IBM’s *Basics of Quantum Information* and *Fundamentals of Quantum Algorithms* courses, which provided a foundation in measurement theory, circuit design, and algorithmic rea[...]
-Building on this, I document my progress through open-source projects that combine physics intuition with computational execution.
+I’m a Computer Science student driven by a deep interest in quantum computing, backend engineering, and machine learning. I focus on mastering core fundamentals — algorithms, data structures, distributed systems, and quantum information theory — to build a strong technical base for advanced research and scalable systems.
+
+On the engineering side, I enjoy designing robust backend architectures and developing ML models that translate theory into real-world impact. I’m particularly interested in how classical high-performance infrastructure can integrate with emerging quantum technologies.
 
 ---
 
