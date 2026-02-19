@@ -2,8 +2,11 @@
 
 ## Computer Science Undergraduate | Quantum Computing & Software Systems
 
-I am a Computer Science undergraduate at PES University with focused interests in quantum computing, algorithms, and software systems.  
-My current work involves exploring the interface between quantum theory and computational implementation — understanding how algorithmic and physical constraints interact in real systems.
+I’m a Computer Science student driven by a deep interest in quantum computing, backend engineering, and machine learning. I focus on mastering core fundamentals — algorithms, data structures, distributed systems, and quantum information theory — to build a strong technical base for advanced research and scalable systems.
+
+On the engineering side, I enjoy designing robust backend architectures and developing ML models that translate theory into real-world impact. I’m particularly interested in how classical high-performance infrastructure can integrate with emerging quantum technologies.
+
+Long term, I aim to work at the intersection of intelligent systems and quantum computation — contributing to research, building future-ready platforms, and shaping the next era of computing.
 
 ---
 
