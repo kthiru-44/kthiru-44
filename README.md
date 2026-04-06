@@ -1,13 +1,13 @@
 # Thiru Kumaran
 
-## Computer Science Undergraduate | Quantum Computing & Software Systems
+## Computer Science Undergraduate | Quantum Algorithms and Optimization
 
 
 ## About Me
 
-I’m a Computer Science student driven by a deep interest in quantum computing, backend engineering, and machine learning. I focus on mastering core fundamentals — algorithms, data structures, distributed systems, and quantum information theory — to build a strong technical base for advanced research and scalable systems.
+I am a Computer Science undergraduate focused on quantum algorithms, optimization, and hybrid quantum-classical systems. My work centers on building a strong foundation in algorithms, computational methods, and quantum information, with the goal of contributing to practical quantum computing applications.
 
-On the engineering side, I enjoy designing robust backend architectures and developing ML models that translate theory into real-world impact. I’m particularly interested in how classical high-performance infrastructure can integrate with emerging quantum technologies.
+Particularly interested in NISQ-era algorithms, where classical optimization techniques integrate with quantum circuits to solve real-world problems. My approach emphasizes clear system design, reproducibility, and bridging theory with implementation.
 
 ---
 
@@ -16,27 +16,27 @@ On the engineering side, I enjoy designing robust backend architectures and deve
 - [INEVITABILITY](https://github.com/shiri-09/INEVITABILITY.git): Architected an automated binary analysis framework leveraging SMT solvers and Z3 to programmatically identify logic vulnerabilities and secure and protect complex code structures.
 - [DroneGuard-AI](https://github.com/kthiru-44/DroneGuard-AI.git) : Developed an drone cybersecurity monitoring tool featuring a real-time telemetry dashboard to detect and mitigate unauthorized signal interference and GPS spoofing.
 - Completed IBM Quantum courses (*Basics of Quantum Information* and *Fundamentals of Quantum Algorithms*).  
-- Building independent theoretical and simulation-based projects in quantum algorithms.  
+- Building independent theoretical and simulation-based projects in quantum algorithms and optimization workflows.
 
 ---
  
 ## Current Focus
 
 - Quantum algorithm design and analysis  
-- Quantum circuit simulation and visualization  
-- Quantum error correction and resource estimation  
-- Python, Qiskit, and scientific computing frameworks  
-- Clean, modular, and transparent code for reproducible research  
+- Building an end-to-end QAOA pipeline for real-world optimization problems
+- Exploring hybrid optimization loops combining classical solvers with quantum circuits
+- Hybrid quantum-classical optimization systems
+- Quantum circuit simulation and benchmarking
 
 ---
 
 
 ## Technical Skills
 
-**Languages:** Python, C (beginner), Git bash  
-**Frameworks:** Qiskit, NumPy, Matplotlib, Jupyter  
+**Languages:** Python, C  
+**Frameworks:** qiskit, pennylane, scikit-learn, jupyter, pytorch  
 **Tools:** Git, Linux, LaTeX  
-**Areas of Interest:** Quantum algorithms, quantum error correction  
+**Areas of Interest:** Quantum algorithms, optimization, computational methods
 
 
 ---
@@ -52,4 +52,4 @@ On the engineering side, I enjoy designing robust backend architectures and deve
 
 ---
 
-*“Bridging computer science and quantum theory through structured software and clear design.”*
+*“Focused on building clear, reproducible systems at the intersection of algorithms, optimization, and quantum computing.”*
