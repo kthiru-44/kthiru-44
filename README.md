@@ -64,7 +64,9 @@ focus = {
 ![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=flat-square&logo=latex&logoColor=white)
 
 **ML:** PyTorch, TensorFlow, scikit-learn, autoencoders, PCA, Gaussian copulas, SHAP
+
 **Quantum:** Qiskit, PennyLane, Cirq, QAOA, VQC, VQE, quantum kernels
+
 **Math:** linear algebra, convex optimization, probability, hypothesis testing
 
 ---
